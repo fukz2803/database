@@ -1,3 +1,5 @@
+CREATE DATABASE q_and_a;
+
 CREATE TABLE question (
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	name TEXT,
